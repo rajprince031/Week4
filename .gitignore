@@ -1,0 +1,6 @@
+//Ignore mac os files
+.DS_STORE
+
+//Ignore all class files
+*.class
+
